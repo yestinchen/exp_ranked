@@ -1,0 +1,9 @@
+car: <A, B, C, X>; person: <a, b, c>;
+car: <A, B, D, X>; person: <a, b, d>;
+car: <A, C, D, X>; person: <a, c, d>;
+car: <A, B, C, Y>; person: <a, b, c>;
+car: <A, B, F, Y>; person: <a, c, d>;
+car: <A, D, F, Y>; person: <a, c>;
+car: <A, D, Z>; person: <a, c, d>;
+car: <C, D, Z>; person: <a, b, d>;
+car: <A, C, D>; person: <a, c>;
